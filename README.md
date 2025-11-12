@@ -48,6 +48,6 @@ Analyzed 1M+ Spotify tracks in R to explore how danceability, energy, genre, dur
 
 ## 📫 Contact
 
-- Email: youremail@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/hope-mutema)
+- Email: mutemahope13@gmail.com
+- LinkedIn: https://linkedin.com/in/hope-mutema
 - Portfolio: [Personal Website](https://hopetatendamutema.com/#)
