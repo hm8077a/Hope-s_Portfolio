@@ -14,7 +14,7 @@ I am a data analyst with a foundation in applied mathematics and economics, aspi
 ### Netflix Movie Ratings Regression
 Applied multiple regression in R to analyze how genre, viewing hours, global release, and season impact Netflix movie ratings across diverse content.  
 *Techniques:* Multi-variable analysis, OLS regression  
-[View Project](https://hopetatendamutema.com/#)
+[View Project]([https://hopetatendamutema.com/#](https://github.com/hm8077a/Netflix-Movie-Ratings-Regression-Multiple-Linear-Regression-))
 
 ---
 
